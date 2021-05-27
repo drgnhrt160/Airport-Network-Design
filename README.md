@@ -13,3 +13,4 @@ The topology used to design the network is Hybrid Topology, it consists of diffe
 This sums up the basic infrastructure and network design for this project.
 
 ![WhatsApp Image 2021-05-27 at 2 43 11 AM](https://user-images.githubusercontent.com/52793422/119832223-9e8d1380-bf1b-11eb-8f9e-42b2c498b83c.jpeg)
+![image](https://user-images.githubusercontent.com/43717289/119832928-486ca000-bf1c-11eb-884f-a9a24e6cf4a5.png)
